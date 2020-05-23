@@ -1350,7 +1350,7 @@ body.landing #skel-layers-wrapper {
 #banner {
     background-attachment: scroll, fixed;
     background-color: #494d53;
-    background-image: url("images/overlay.png"), url("../images/blur2.jpg"), url("../images/spic5.jpg");
+    background-image: url("../images/overlay.png"), url("../images/blur2.jpg"), url("../images/spic5.jpg");
     background-position: top left, center center;
     background-repeat: repeat, no-repeat;
     background-size: auto, cover;
@@ -1593,7 +1593,7 @@ body {
     /* background: #00afcc;*/
     background-attachment: fixed;
     background-color: #494d53;
-    background-image: url("images/overlay.png");
+    background-image: url("../images/overlay.png");
 }
 
 #footer .icons {}

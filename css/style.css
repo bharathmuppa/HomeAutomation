@@ -1420,6 +1420,7 @@ body.landing #skel-layers-wrapper {
 #banner p {
     font-size: 1.5em;
     margin-bottom: 1.75em;
+    text-shadow: 2px 2px 3px midnightblue;
 }
 
 body.is-loading #banner:after {
